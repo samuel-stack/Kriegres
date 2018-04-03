@@ -22,7 +22,7 @@ I can't tell you when to use this or if its any good, but basically I'm going to
 -------------
 
 ### How to use Kriegres ?
-Check out the [Kriegres Usage Notebook](Kregres-Usage.ipynb)
+Check out the [Kriegres Usage Notebook](./Kriegres-Usage.ipynb)
 
 -------------
 
