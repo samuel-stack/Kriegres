@@ -27,4 +27,4 @@ Check out the [Kriegres Usage Notebook](./Kriegres-Usage.ipynb)
 -------------
 
 ### Who is Kriegres ?
-If you never played [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) you probably want to know what the heck that picture is of and what it has to do with SQL.  Its a picture of a character named Krieg.  Krieg is a Psycho. I pronounce "Pyscopg2" as "Psycho-P-G-2".  Unlike other psychos in Borderlands, Krieg is good.  
+If you never played [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2) you probably want to know what the heck that picture is of and what it has to do with SQL.  Its a picture of a character named Krieg.  Krieg is a Psycho. I pronounce "Pyscopg2" as "Psycho-P-G-2".  Unlike other psychos in Borderlands, Krieg is good.  Unlike other ways to use postgres, this one is good (ish).
